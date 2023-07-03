@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Eduardo Flores Yépez</h1><h3 align="center">Soy un Estudiante de Ing. en computación y diseñador UX.</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=eddybr10&label=Profile%20views&color=0e75b6&style=flat" alt="eddybr10" /> </p>
+<h1 align="center">Hola 👋, soy Eduardo Flores Yépez</h1><h3 align="center">Soy un Estudiante de Ing. en computación y estudiante de UX design.</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=eddybr10&label=Profile%20views&color=0e75b6&style=flat" alt="eddybr10" /> </p>
 
 
 
@@ -8,9 +8,9 @@
 
 - 🔭 Actualmente estoy trabajando en la Fundación Cardenal Garibi Rivera [Desarrollo web y experiencia de usuario.] (fuera de línea)
 
-- Actualmente estoy en cursos de: **Ingles B1, Analíticas de datos por parte del tecnológico de Monterrey, entre otros.**
+- 🌱Actualmente estoy en cursos de: **Ingles B1, Analíticas de datos por parte del tecnológico de Monterrey, entre otros.**
 
-- 👯 🌱 Actualmente estoy colaborando en un sistema distribuido de [Traductor de voz a lengua de señas.] (fuera de línea)
+- 👯  Actualmente estoy colaborando en un sistema distribuido de [Traductor de voz a lengua de señas.] (fuera de línea)
 
 - 💬Pregúntame sobre... **Java, Python.**- 
 - 📫 Contáctame **Eddy201222@gmail.com**
