@@ -8,9 +8,9 @@
 
 - 🔭 Actualmente estoy trabajando en la Fundación Cardenal Garibi Rivera [Desarrollo web y experiencia de usuario.] (fuera de línea)
 
-- 🌱Actualmente estoy en cursos de: **Ingles B1, Analíticas de datos por parte del tecnológico de Monterrey, entre otros.**
+- 🌱Actualmente estoy en cursos de: **Ingles B2, Analíticas de datos por parte del tecnológico de Monterrey, entre otros.**
 
-- 👯  Actualmente estoy colaborando en un sistema distribuido de [Traductor de voz a lengua de señas.] (fuera de línea)
+- 👯  Actualmente estoy colaborando en un sistema distribuido de [Traductor de voz a lengua de señas.] (En línea) https://www.traductorlsm.com/
 
 - 💬Pregúntame sobre... **Java, Python.**- 
 - 📫 Contáctame **Eddy201222@gmail.com**
