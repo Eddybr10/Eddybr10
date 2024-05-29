@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Eduardo Flores Yépez</h1><h3 align="center">Soy un Estudiante de Ing. en computación y estudiante de UX design.</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=eddybr10&label=Profile%20views&color=0e75b6&style=flat" alt="eddybr10" /> </p>
+<h1 align="center">Hola 👋, soy Eduardo Flores Yépez</h1><h3 align="center">Soy un pasante de Ing. en computación y estudiante de UX design mediante google courses.</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=eddybr10&label=Profile%20views&color=0e75b6&style=flat" alt="eddybr10" /> </p>
 
 
 
