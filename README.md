@@ -2,13 +2,13 @@
 
 Ingeniero en Computación y estudiante de Maestría en Ciberseguridad en el Tecnológico de Monterrey.
 
-Actualmente trabajo como **Web Developer en CLOE**, donde desarrollo soluciones de **e-commerce en VTEX IO**, automatizaciones internas, integraciones y herramientas que optimizan procesos de negocio.
+Actualmente soy **Web Developer en CLOE**, donde lidero la evolución técnica del canal web y desarrollo soluciones de **e-commerce en VTEX IO**, automatizaciones internas, integraciones y herramientas que optimizan procesos de negocio.
 
 ## Sobre mí
-- 💼 Web Developer enfocado en desarrollo web, automatización e integración de sistemas
-- 🎓 Maestría en Ciberseguridad
+- 💼 Responsable del desarrollo web, automatización e integración de sistemas orientados a operación y negocio
+- 🚀 Enfocado en construir soluciones escalables, mantenibles y con impacto real
 - 🛠️ Experiencia en VTEX IO, JavaScript, React, Python, Flask, PHP y Java
-- 🔐 Interés creciente en seguridad ofensiva/defensiva, arquitectura segura y automatización
+- 🔐 Interés creciente en ciberseguridad, arquitectura segura y automatización
 - 📫 Contacto: **Eddy201222@gmail.com**
 
 ## Tech Stack
